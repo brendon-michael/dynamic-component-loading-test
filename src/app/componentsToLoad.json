@@ -1,0 +1,3 @@
+{
+  "componentsToLoad": ["<app-testing></app-testing>"]
+}
